@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mondey-hw-firs-auto-check/static/css/main.073c9b0a.css",
-    "main.js": "/mondey-hw-firs-auto-check/static/js/main.09f1c2a1.js",
+    "main.js": "/mondey-hw-firs-auto-check/static/js/main.36ae6619.js",
     "static/js/787.177e23c2.chunk.js": "/mondey-hw-firs-auto-check/static/js/787.177e23c2.chunk.js",
     "index.html": "/mondey-hw-firs-auto-check/index.html",
     "main.073c9b0a.css.map": "/mondey-hw-firs-auto-check/static/css/main.073c9b0a.css.map",
-    "main.09f1c2a1.js.map": "/mondey-hw-firs-auto-check/static/js/main.09f1c2a1.js.map",
+    "main.36ae6619.js.map": "/mondey-hw-firs-auto-check/static/js/main.36ae6619.js.map",
     "787.177e23c2.chunk.js.map": "/mondey-hw-firs-auto-check/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.09f1c2a1.js"
+    "static/js/main.36ae6619.js"
   ]
 }
