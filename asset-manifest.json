@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mondey-hw-firs-auto-check/static/css/main.073c9b0a.css",
-    "main.js": "/mondey-hw-firs-auto-check/static/js/main.5bed1129.js",
+    "main.css": "/mondey-hw-firs-auto-check/static/css/main.a46795ec.css",
+    "main.js": "/mondey-hw-firs-auto-check/static/js/main.bfbc7d56.js",
     "static/js/787.177e23c2.chunk.js": "/mondey-hw-firs-auto-check/static/js/787.177e23c2.chunk.js",
     "index.html": "/mondey-hw-firs-auto-check/index.html",
-    "main.073c9b0a.css.map": "/mondey-hw-firs-auto-check/static/css/main.073c9b0a.css.map",
-    "main.5bed1129.js.map": "/mondey-hw-firs-auto-check/static/js/main.5bed1129.js.map",
+    "main.a46795ec.css.map": "/mondey-hw-firs-auto-check/static/css/main.a46795ec.css.map",
+    "main.bfbc7d56.js.map": "/mondey-hw-firs-auto-check/static/js/main.bfbc7d56.js.map",
     "787.177e23c2.chunk.js.map": "/mondey-hw-firs-auto-check/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5bed1129.js"
+    "static/css/main.a46795ec.css",
+    "static/js/main.bfbc7d56.js"
   ]
 }
